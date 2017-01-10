@@ -1,0 +1,16 @@
+{
+  "name": "webcam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webcam.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.12.5"
+  },
+  "scripts": {
+    "start": "browser-sync start --server --files '*.css, *.html, *.js'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
